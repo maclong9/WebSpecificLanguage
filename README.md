@@ -1,6 +1,6 @@
 # Web Specific Language (WSL)
 
-WSL is a Swift language for writing web code in HTML, CSS, and JavaScript, following Swift conventions.
+WSL is a Domain Specific Language for writing web application code in a conventional Swift syntax.
 
 **Features:**
 - Type safety
@@ -8,13 +8,13 @@ WSL is a Swift language for writing web code in HTML, CSS, and JavaScript, follo
 - Intuitive syntax
 - Domain-specific abstractions
 
-## Checklist
+## Roadmap
 
 - [ ] HTML Builder
     - [ ] Complete set of HTML5 semantic tags
     - [ ] Accessibility attributes support
     - [ ] Custom data attributes support
-    - [ ] Nested tag structure validation
+    - [x] Nested tag structure validation
     - [ ] Inline styles and classes support
     - [ ] Self-closing tag handling
     - [ ] SVG and MathML support
